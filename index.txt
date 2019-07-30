@@ -1,3 +1,9 @@
 我太白剑法与沧浪决，孔雀翎，大悲赋一战，胜之！
 一代剑神，独孤飞云，卒！
 
+数组map的遍历
+let arr = [1,2.3,4,5,6,7,8,9]
+	arr.map(a,b)=>{
+	console.log(a)//value
+	comsole.log(b)//index
+	}
